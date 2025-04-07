@@ -1,4 +1,5 @@
-# OOP_15-5-2025
+# Cái này là phần giới thiệu thôi chứ không có ghi code lên đây 
+
 import java.util.ArrayList;
 import java.util.List;
 
